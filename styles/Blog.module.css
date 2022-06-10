@@ -1,0 +1,27 @@
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+  min-height: 100vh;
+  padding: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding-top: 2rem;
+  align-items: center;
+}
+
+.blogItem {
+  max-width: 65vw;
+}
+
+.blogItemh3 {
+  cursor: pointer;
+  max-width: 45vw;
+}
+
+.blogItemp {
+  max-width: 45vw;
+}

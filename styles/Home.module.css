@@ -52,7 +52,7 @@
 }
 
 .description {
-  margin: 4rem 0;
+  margin: 0;
   line-height: 1.5;
   font-size: 1.5rem;
 }
@@ -127,4 +127,13 @@
   justify-content: center;
   gap: 1rem;
   font-weight: bold;
+}
+
+.myImg {
+  border: 1rem solid blue;
+  border-radius: 5px;
+}
+
+.imageWrap {
+  padding: 10px;
 }
